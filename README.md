@@ -4,9 +4,7 @@ This is a **Streamlit** web application that classifies flower images into one o
 
 ## 🚀 Live Demo
 
-🔗 [Try the App on Streamlit!](https://your-deployed-app-link.streamlit.app)
-
-> Replace the above URL with your actual Streamlit deployment link.
+🔗 [Flower Classifier](https://flower-classifier1.streamlit.app/)
 
 ---
 
