@@ -1,8 +1,3 @@
-Here's a complete, professional `README.md` for your Streamlit-based **Flower Classifier** app:
-
----
-
-````markdown
 # 🌼 Flower Classifier Web App
 
 This is a **Streamlit** web application that classifies flower images into one of five categories using a **Convolutional Neural Network (CNN)** built with **TensorFlow/Keras**.
